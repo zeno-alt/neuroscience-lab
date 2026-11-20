@@ -22,4 +22,5 @@ Studies and scientific evidence:
 - 
 
 ## 7. My own explanation
-Explain the concept without looking at notes.
+Dopamine is a neurotransmitter that helps the brain in processing rewards, motivation etc, it is nit just a feel good chemical 
+
